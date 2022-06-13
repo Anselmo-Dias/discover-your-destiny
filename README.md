@@ -30,7 +30,7 @@ Esse é um projeto simples onde crio um app que vai revelar seu destino...!
 ### **Hospedado por:**
 <br />
 
-  - [GitHub Pages](https://anselmo-dias.github.io/BarbeariaDosBoys/) 💈
+  - [GitHub Pages](https://anselmo-dias.github.io/discover-your-destiny/) 💈
  
 
 
