@@ -23,6 +23,8 @@
 <br />
 
 Esse é um projeto simples onde crio um app que vai revelar seu destino...!
+![image](https://user-images.githubusercontent.com/96529532/173476189-a7b6b5a9-aea0-4804-9c48-fb99b14f038a.png)
+
 
 <br />
 
