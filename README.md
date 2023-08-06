@@ -28,6 +28,16 @@ Esse é um projeto simples onde crio um app que vai revelar seu destino...!
 
 <br />
 
+[## :bulb: Conteúdos abordados
+<br />
+
+
+- Html
+- Css
+- JavaScript
+
+<br />
+
 ## O link do site 
 ### **Hospedado por:**
 <br />
@@ -49,6 +59,7 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 Siga -me no instagram
 <br />
 
-- [Instagram](https://www.instagram.com/_anselmo_69/)
+- [Instagram](https://www.instagram.com/_anselmo.dev/)
+- [Linkedin](https://www.linkedin.com/in/anselmo-dias-dev/)
 
 <br />
