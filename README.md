@@ -28,7 +28,7 @@ Esse é um projeto simples onde crio um app que vai revelar seu destino...!
 
 <br />
 
-[## :bulb: Conteúdos abordados
+## :bulb: Conteúdos abordados
 <br />
 
 
